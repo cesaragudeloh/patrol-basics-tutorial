@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/cesar/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/cesar/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/cesar/StudioProjects/patrol-basics-tutorial/android/app/.cxx/Debug/5c3c66j6/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/cesar/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/cesar/StudioProjects/patrol-basics-tutorial/android/app/.cxx/Debug/5c3c66j6/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

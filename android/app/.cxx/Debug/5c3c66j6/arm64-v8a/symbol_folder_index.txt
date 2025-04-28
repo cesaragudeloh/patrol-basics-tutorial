@@ -1,0 +1,1 @@
+/Users/cesar/StudioProjects/patrol-basics-tutorial/build/app/intermediates/cxx/Debug/5c3c66j6/obj/arm64-v8a
